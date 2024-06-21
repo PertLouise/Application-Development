@@ -66,17 +66,7 @@
                                 </ul>
                             </li>
 
-                            <li class="menu-title">Stock</li>
-
-                            <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect">
-                                    <i class="ri-account-circle-line"></i>
-                                    <span>Manage Stocks</span>
-                                </a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="{{ route('admin.allstock') }}">All Stocks</a></li>
-                                </ul>
-                            </li>
+                            
 
                             
 
